@@ -1,0 +1,28 @@
+body,
+.card-header,
+.card-body,
+.card-footer {
+    background-color: black;
+    color: white;
+}
+
+.card {
+    margin-bottom: 3rem;
+}
+
+.mar-top{
+    margin-top: 5rem;
+}
+
+.div-nav {
+    margin-bottom: 4rem;
+}
+
+.card-header {
+    color: #198340 !important;
+    font-size: 1.4rem;
+}
+
+.card-body {
+    padding-bottom: 0px !important;
+}
